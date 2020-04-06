@@ -1,7 +1,7 @@
 # File Name: Text Compressor - List.py
 # Purpose: Program that compresses text, then recreates it using the compressed list
-# Date: 2020-03-01
-# Last modified: 2020-03-01
+# Date: 2015-01-02
+# Last modified: 2015-01-02
 # Author: Josen Pottackal
 # Copy right no copyright
 # Version: 1.0
